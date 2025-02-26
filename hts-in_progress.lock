@@ -1,0 +1,7 @@
+Mirror in progress since Tue, 25 Feb 2025 19:51:16 .. please wait!
+httrack https://www.facebook.com/ 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=6389
+UID=0
+GID=0
+START=1740531076
